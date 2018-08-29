@@ -1,0 +1,67 @@
+.place{
+    float: right;
+    text-align: center;
+}
+.name{
+    float: left;
+    font-family: monospace;
+    font-size: 12pt;
+    font-weight: bolder;
+    padding: 5px 0;
+}
+.display{
+    position:absolute;
+    border:1px solid black;
+    height : 300px;
+    left : 740px;
+    top : 10px;
+    background-color: #fed594;
+    /*float: right;*/
+    width: 23%;
+    /*margin-top: 40px;*/
+    margin: auto;
+    text-align: center;
+}
+.pawn {
+    position:absolute;
+    width:36px;
+    height:65px;
+    pointer-events:none;
+}
+.list {
+    width:28px;
+    height:50px;
+}
+tr:nth-child(1) {
+    background-color: #aa866c   ;
+    color:white;
+}
+
+#seward {
+    /*top:186px;
+    left:380px;*/
+    border: 2px solid #f84148;
+
+}
+#dracula {
+    /*top:338px;
+    left:846px;*/
+    display: block;
+    border: 2px solid #212e61;
+
+}
+#mina {
+    /*left:954px;
+    top:468px;*/
+    border: 2px solid #f56dcc;
+}
+#helsing {
+    /*top:520px;
+    left:160px;*/
+    border: 2px solid white;
+}
+#godalming {
+    /*top:418px;
+    left:868px;*/
+    border: 2px solid #6BFF26FF;
+}
