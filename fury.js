@@ -145,7 +145,7 @@ var place = [{x:"459px",y:"227px",name:'AMSTERDAM'},
             {x:"759,px",y:"720px",name:'IONIAN_SEA'},
             {x:"1014px",y:"450px",name:'BLACK_SEA'},
             {x:"461,px",y:"126px",name:'NORTH_SEA'},
-            {x:"215px",y:"409px",name:'BAY_OF_BISCAY'},
+            {x:"211px",y:"409px",name:'BAY_OF_BISCAY'},
             {x:"693px",y:"565px",name:'ADRIATIC_SEA'},
             {x:"187px",y:"203px",name:'IRISH_SEA'},
             {x:"311px",y:"278px",name:'ENGLISH_CHANNEL'}];
