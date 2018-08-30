@@ -1,5 +1,5 @@
-body {font-size:11pt;font-family:sans-serif;margin:10px 30px;color:#999999;background-color:#000000}
-a {color:#CC0000;text-decoration:none;}
+body {font-size:11pt;font-family:sans-serif;margin:10px 30px;color:#999999;background-color:#030303}
+a {color:#ec3e3e;text-decoration:none;}
 a[href]:hover {color:#FF0000;}
 small {font-size:75%}
 pre {background:#999999;color:#000000;border:thin solid #333333;margin:5px 20px 5px 20px;padding:4px 8px
@@ -9,7 +9,7 @@ tt {font-size:12pt;}
 span.toggle {font-size:67%;}
 span.notice {font-size:110%;}
 span.tiny {font-size:75%;font-weight:normal;}
-span.heading {font-size:18pt;color:#CC0000;}
+span.heading {font-size:18pt;color:#ec3e3e;}
 span.subheading {font-size:16pt;font-weight:normal}
 span.marks {font-weight:normal;font-size:75%;}
 span.identifier {color:#993300;font-size:110%;font-weight:bold;font-family:courier;}
@@ -19,14 +19,14 @@ tr.heading {font-size:large;font-weight:bold;background-color:#DDAA77;}
 table.note {border:thin solid black;padding:2pt;width:75%}
 div.note {border:thin solid black;font-size:90%;margin:5px 60px 5px 60px;padding:4px 8px;}
 dt.item {font-weight:bold;}
-h1 {font-size:24pt;font-weight:300;color:#CC0000;}
-h2 {font-size:18pt;font-weight:300;color:#CC0000;}
-h3 {font-size:15pt;font-weight:300;color:#CC0000;}
-.red {color:#CC0000;}
+h1 {font-size:24pt;font-weight:300;color:#ec3e3e;}
+h2 {font-size:18pt;font-weight:300;color:#ec3e3e;}
+h3 {font-size:15pt;font-weight:300;color:#ec3e3e;}
+.red {color:#ec3e3e;}
 .green {color:#006600;}
 .brown {color:#993300;}
 .grey {color:#CCCCCC;}
 .comment {font-size:90%;color:#666666}
-.important {font-weight:bold;color:#CC0000;}
+.important {font-weight:bold;color:#ec3e3e;}
 .bigQ {font-size:13pt;font-style:italic;}
 
